@@ -84,8 +84,8 @@
     BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --font-family-mono: "Berkeley Mono", ui-monospace, SFMono-Regular, Menlo,
     Monaco, Consolas, monospace;
-  --font-size-xs: 11px;
-  --font-size-sm: 12px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
   --font-size-base: 14px;
   --font-size-md: 14px;
   --font-size-lg: 16px;
