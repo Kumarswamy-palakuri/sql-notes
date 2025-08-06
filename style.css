@@ -1170,7 +1170,9 @@ body {
   .header__actions {
     gap: var(--space-8);
   }
-
+  .content-wrapper {
+    padding: 0px;
+  }
   .nav-title {
     font-size: var(--font-size-xs);
   }
@@ -1179,7 +1181,11 @@ body {
     font-size: var(--font-size-xl);
   }
 }
-
+@media (max-width: 400px) {
+  .header__title {
+    font-size: 12px;
+  }
+}
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;
