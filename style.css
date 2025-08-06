@@ -1071,6 +1071,7 @@ body {
   z-index: 1000;
 }
 
+
 .back-to-top.visible {
   opacity: 1;
   visibility: visible;
@@ -1081,6 +1082,7 @@ body {
   transform: translateY(-2px);
   box-shadow: var(--shadow-xl);
 }
+
 
 /* Mobile overlay */
 .overlay {
